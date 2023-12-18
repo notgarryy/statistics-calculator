@@ -1,0 +1,187 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.menu-kal-distribusi-peubah-acak-Ebf {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #252525;
+
+  .group-47259-AkD {
+    padding: 1.7rem 68.873rem 2.175rem 11.674rem;
+    height: 8.1rem;
+    align-items: center;
+    background: linear-gradient(269.7deg, #7370ff 27.48%, rgba(115, 112, 255, 0) 77.79%);
+    flex-shrink: 0;
+    box-sizing: border-box;
+    display: flex;
+    background-color: rgba(5, 0, 0, 0.6299999952);
+    width: 197.0731rem;
+
+    .back-button-2Gd {
+      position: relative;
+      flex-shrink: 0;
+      margin: 0rem 45.314rem 0.025rem 0rem;
+      width: 15.314rem;
+      height: calc(100% - 0.0252rem);
+      cursor: pointer;
+
+      .rectangle-4153-YVs {
+        border-radius: 1rem;
+        width: 14.4353rem;
+        height: 4.2rem;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-color: #ffffff;
+      }
+      .expandleft-UPX {
+        position: absolute;
+        left: 2.7803rem;
+        top: 1.5rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 0.933rem;
+        height: 1.2rem;
+      }
+      .back-zcm {
+        font-weight: 500;
+        color: #651480;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3rem;
+        left: 4.3934rem;
+        top: 0.6rem;
+        font-size: 2rem;
+        line-height: 1.5;
+        width: 5.5rem;
+        position: absolute;
+      }
+    }
+    .waterfall-hXB {
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+      margin-right: 3.6493rem;
+      padding: 0.88rem 0.831rem 0.528rem 0.831rem;
+      height: 100%;
+      border-radius: 0.5rem;
+      box-sizing: border-box;
+      flex-direction: column;
+      border: solid 0.2rem #ffffff;
+
+      .auto-group-48px-Ri5 {
+        margin-bottom: 0.8802rem;
+        width: 4.4325rem;
+        height: 1.9366rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .rectangle-25-m1F {
+        width: 4.9866rem;
+        height: 0;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 0.2rem;
+        flex-shrink: 0;
+      }
+    }
+    .kalkulator-distribusi-peubah-acak-diskrit-roP {
+      font-weight: 500;
+      line-height: 1.5;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.2252rem;
+      font-size: 2rem;
+    }
+  }
+  .auto-group-vzc1-tEH {
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8.3rem 10.1rem 47.5rem 10.1rem;
+    width: 100%;
+    row-gap: 5.8rem;
+    display: flex;
+
+    .kotak-pilihan-kalkulator-binomial-buP {
+      width: 58.4rem;
+      height: 14.4rem;
+      cursor: pointer;
+      background-color: rgba(255, 255, 255, 0.9499999881);
+      border-radius: 1rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 17.3rem 1.2rem 17.4rem;
+
+      .kalkulator-binomial-7cq {
+        text-align: center;
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 1.5;
+        text-decoration-line: underline;
+        font-family: Poppins, 'Source Sans Pro';
+        max-width: 23.7rem;
+      }
+    }
+    .kotak-pilihan-kalkulator-hypergeometric-cZb {
+      border-radius: 1rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2rem 12.8rem 1.6rem 12.9rem;
+      width: 58.4rem;
+      height: 14.4rem;
+      cursor: pointer;
+      background-color: rgba(255, 255, 255, 0.9499999881);
+
+      .kalkulator-hypergeometric-XAm {
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 1.5;
+        text-decoration-line: underline;
+        font-family: Poppins, 'Source Sans Pro';
+        max-width: 32.7rem;
+        text-align: center;
+      }
+    }
+    .kotak-pilihan-kalkulator-poisson-dUh {
+      background-color: rgba(255, 255, 255, 0.9499999881);
+      border-radius: 1rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 3rem 18.3rem 1.8rem 18.4rem;
+      width: 58.4rem;
+      height: 14.4rem;
+      cursor: pointer;
+
+      .kalkulator-poisson-HZF {
+        max-width: 21.7rem;
+        text-align: center;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.5;
+        text-decoration-line: underline;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+    }
+  }
+}

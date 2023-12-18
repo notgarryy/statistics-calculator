@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-base.min.js"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Kalkulator Persebaran Data</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600%2C700"/>
+    <link rel="stylesheet" href="./styles/menu-kal-persebaran-data.css"/>
+  </head>
+
+  <body>
+    <div class="menu-kal-persebaran-data-qf3">
+      <div class="group-47259-2jX">
+        <div class="back-button-2Ff">
+          <div class="rectangle-4153-7H7">
+          </div>
+          <img class="expandleft-Nyj" src="./assets/expandleft.png"/>
+          <a href="index.html">
+            <p class="back-hm7">BACK</p>
+          </a>
+        </div>
+        <img class="chart-wvM" src="./assets/chart.png"/>
+        <p class="kalkulator-persebaran-data-fLZ">KALKULATOR PERSEBARAN DATA</p>
+      </div>
+      <div class="auto-group-b1bb-5fB">
+        <div class="kotak-masukan-data-8tM">
+          <div class="auto-group-5ykx-ERb">
+            <div class="rectangle-4155-mRX">
+            </div>
+            <div class="rectangle-4156-rhs">
+            </div>
+            <textarea id="rectangle-4157-Ld3">
+            </textarea>
+            <p class="masukan-data--fQR">
+              <span class="masukan-data--fQR-sub-0">MASUKAN DATA :</span>
+              <span class="masukan-data--fQR-sub-1"> </span>
+            </p>
+          </div>
+          <button class="auto-group-tgwr-G2q" onclick="calculateData();">calculate</button>
+        </div>
+        <p class="data-terurut-box-RK3">Data terurut :</p>
+        <p class="max-box-Fos">Max :</p>
+        <p class="min-box-52D">Min :</p>
+        <p class="ratarata-box-waD">Rata - Rata :</p>
+        <p class="median-box-buf">Median : </p>
+        <p class="modus-box-sMP">Modus : </p>
+        <p class="q1-box-i77">Q1 : </p>
+        <p class="q2-box-i77">Q2 : </p>
+        <p class="q3-box-i77">Q3 : </p>
+        <p class="iqr-box-1Ed">IQR :</p>
+        <p class="pa-box-1Ed">Pagar atas :</p>
+        <p class="pb-box-1Ed">Pagar bawah :</p>
+        <p class="outlier-box-fKB">Outlier :</p>
+      </div>
+
+      <div class="box-plot-container">
+        <div id="container"></div>
+      </div>
+    </div>
+
+    <script src="./scripts/persebaran-data.js"></script>
+  </body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Kalkulator Hipergeometrik</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C700"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A500%2C700"/>
+    <link rel="stylesheet" href="./styles/kalkulator-hypergeometric-peubah-acak.css"/>
+  </head>
+  <body>
+    <div class="kalkulator-hypergeometric-peubah-acak-mdo">
+      <div class="group-47259-Jdj">
+        <div class="back-button-Qgm">
+          <div class="rectangle-4153-vv1">
+          </div>
+          <img class="expandleft-EQu" src="./assets/expandleft-k45.png"/>
+          <a href="menu-diskrit.html">
+            <p class="back-wq7">BACK</p>
+          </a>
+        </div>
+        <div class="waterfall-Sms">
+          <img class="auto-group-xyk9-mp9" src="./assets/auto-group-xyk9.png"/>
+          <img class="rectangle-25-HGh" src="REPLACE_IMAGE:I81:97;56:46"/>
+        </div>
+        <p class="kalkulator-distribusi-peubah-acak-diskrit-Bcy">KALKULATOR DISTRIBUSI PEUBAH ACAK DISKRIT</p>
+      </div>
+      <p class="kalkulator-hypergeometric-1ru">KALKULATOR HYPERGEOMETRIC</p>
+      <div class="auto-group-vk1p-6dT">
+        <button class="calculate-box-2-dtH" onclick="calculateHyper();">calculate </button>
+        <div class="jumlah-populasi-4Cu">
+          <p class="jumlah-populasi-n-BoK">Jumlah populasi (N)</p>
+          <input id="rectangle-4180-ujK">
+        </div>
+        <div class="jumlah-sampel-q7B">
+          <p class="jumlah-sampel-n-ZYy">Jumlah Sampel (n)</p>
+          <input id="rectangle-4181-FAu">
+        </div>
+        <div class="jumlah-sukses-AYm">
+          <p class="jumlah-sukses-k-VL9">Jumlah Sukses (k)</p>
+          <input id="rectangle-4182-RDo">
+        </div>
+        <div class="jumlah-sukses-terambil-LrZ">
+          <p class="jumlah-sukses-terambil-x-fdw">Jumlah Sukses Terambil  (x)</p>
+          <input id="rectangle-4183-bXb">
+        </div>
+
+        <div class="output-container">
+          <p class="hyper-x-eqs-RV tt"></p>
+          <p class="hyper-x-less-than-RV tt"></p>
+          <p class="hyper-x-less-than-eqs-RV tt"></p>
+          <p class="hyper-x-more-than-RV tt"></p>
+          <p class="hyper-x-more-than-eqs-RV tt"></p>
+          <p class="hyper-expectance tt"></p>
+          <p class="hyper-variance tt"></p>
+       </div>
+
+        <div class="chart-container">
+          <canvas id="myChart2"></canvas>
+       </div>
+      </div>
+    </div>
+
+    <script src="./scripts/hypergeometric.js"></script>
+  </body>
+</html>

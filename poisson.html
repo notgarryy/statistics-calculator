@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Kalkulator Poisson</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A500%2C700"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C700"/>
+    <link rel="stylesheet" href="./styles/kalkulator-binomial-peubah-acak.css"/>
+  </head>
+  <body>
+    <div class="kalkulator-binomial-peubah-acak-jgZ">
+      <div class="group-47259-faD">
+        <div class="back-button-LgM">
+          <div class="rectangle-4153-QgD">
+          </div>
+          <img class="expandleft-981" src="./assets/expandleft-HGy.png"/>
+          <a href="menu-diskrit.html">
+            <p class="back-5GZ">BACK</p>
+          </a>
+        </div>
+        <div class="waterfall-mfB">
+          <img class="auto-group-atrm-UpV" src="./assets/auto-group-atrm.png"/>
+          <img class="rectangle-25-znq" src="REPLACE_IMAGE:I81:67;56:46"/>
+        </div>
+        <p class="kalkulator-distribusi-peubah-acak-diskrit-Vjb">KALKULATOR DISTRIBUSI PEUBAH ACAK DISKRIT</p>
+      </div>
+      <p class="kalkulator-binomial-Wub">KALKULATOR POISSON</p>
+      <div class="jumlah-usaha-QEH">
+        <p class="jumlah-usaha-n-L7w">
+        Rata-rata (μ) </p>
+        <input id="rectangle-4179-TCZ">
+      </div>
+      <div class="peluang-sukses-myw">
+        <p class="peluang-sukses-p-Jys">Peubah Acak (x)</p>
+        <input id="rectangle-4180-3Rf">
+      </div>
+      <button class="calculate-box-6YM" onclick="calculatePoisson();">calculate </button>
+
+      <div class="output-container">
+        <p class="poisson-x-eqs-RV tt"></p>
+        <p class="poisson-x-less-than-RV tt"></p>
+        <p class="poisson-x-less-than-eqs-RV tt"></p>
+        <p class="poisson-x-more-than-RV tt"></p>
+        <p class="poisson-x-more-than-eqs-RV tt"></p>
+        <p class="poisson-expectance tt"></p>
+        <p class="poisson-variance tt"></p>
+      </div>
+
+      <div class="chart-container">
+        <canvas id="myChart3"></canvas>
+      </div>
+    </div>
+    <script src="./scripts/poisson.js"></script>
+  </body>
+</html>

@@ -1,0 +1,287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.kalkulator-hypergeometric-peubah-acak-mdo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #252525;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj {
+  margin-bottom: 6.9rem;
+  box-sizing: border-box;
+  padding: 1.7rem 67.081rem 2.175rem 11.39rem;
+  width: 192.2809rem;
+  height: 8.1rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(5, 0, 0, 0.6299999952);
+  background: linear-gradient(269.7deg, #7370ff 27.48%, rgba(115, 112, 255, 0) 77.79%);
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .back-button-Qgm {
+  margin: 0rem 40.293rem 0.025rem 0rem;
+  width: 14.9416rem;
+  height: calc(100% - 0.0252rem);
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .back-button-Qgm .rectangle-4153-vv1 {
+  width: 14.0843rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .back-button-Qgm .expandleft-EQu {
+  width: 0.9103rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 2.7127rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .back-button-Qgm .back-wq7 {
+  width: 5.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.2865rem;
+  top: 0.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #651480;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .waterfall-Sms {
+  margin-right: 6.4882rem;
+  box-sizing: border-box;
+  padding: 0.88rem 0.811rem 0.528rem 0.811rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .waterfall-Sms .auto-group-xyk9-mp9 {
+  margin: 0rem 0rem 0.88rem 0rem;
+  width: 4.3247rem;
+  height: 1.9366rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .waterfall-Sms .rectangle-25-HGh {
+  width: 4.8653rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .group-47259-Jdj .kalkulator-distribusi-peubah-acak-diskrit-Bcy {
+  margin-top: 0.5748rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .kalkulator-hypergeometric-1ru {
+  color: white;
+  margin-left: 10.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT {
+  width: 100%;
+  height: 105.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .calculate-box-2-dtH {
+  width: 27.3548rem;
+  height: 3.7544rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 40.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  background: linear-gradient(270.89deg, #7370ff 63.8%, rgba(0, 0, 0, 0) 98.9%);
+  border-radius: 0.5rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-populasi-4Cu {
+  width: 71.5612rem;
+  height: 3.2181rem;
+  position: absolute;
+  left: 11.208rem;
+  top: 6.9rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-populasi-4Cu .jumlah-populasi-n-BoK {
+  margin-right: 16.0502rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-populasi-4Cu #rectangle-4180-ujK {
+  margin-top: 0.1073rem;
+  width: 34.511rem;
+  height: 3.1108rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sampel-q7B {
+  width: 71.7921rem;
+  height: 3.6471rem;
+  position: absolute;
+  left: 11.208rem;
+  top: 14.087rem;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 0.5rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sampel-q7B .jumlah-sampel-n-ZYy {
+  margin: 0rem 17.481rem 0.004rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sampel-q7B #rectangle-4181-FAu {
+  margin-bottom: 0.5363rem;
+  width: 34.511rem;
+  height: 3.1108rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-AYm {
+  box-sizing: border-box;
+  padding-right: 0rem;
+  width: 71.9075rem;
+  height: 3.7544rem;
+  position: absolute;
+  left: 11.0925rem;
+  top: 21.1667rem;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 0.5rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-AYm .jumlah-sukses-k-VL9 {
+  margin: 0rem 18.596rem 0.004rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-AYm #rectangle-4182-RDo {
+  margin-bottom: 0.6436rem;
+  width: 34.511rem;
+  height: 3.1108rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-terambil-LrZ {
+  box-sizing: border-box;
+  padding-right: 0rem;
+  width: 72.6rem;
+  height: 3.2181rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 28.2465rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-terambil-LrZ .jumlah-sukses-terambil-x-fdw {
+  margin-right: 9.389rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-hypergeometric-peubah-acak-mdo .auto-group-vk1p-6dT .jumlah-sukses-terambil-LrZ #rectangle-4183-bXb {
+  width: 34.511rem;
+  height: 3.1108rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+button{
+  cursor:pointer;
+}
+.chart-container{
+  background-color: white;
+  position: absolute;
+  width: 40%;
+  height: 38%;
+  top: 10%;
+  right: 10%;
+}
+.output-container{
+  position: absolute;
+  width: 20%;
+  height: 32%;
+  bottom: 23%;
+  left: 6%;
+}
+.tt{
+  color: white;
+  font-family: Poppins, 'Source Sans Pro';
+  font-size: 24px;
+}

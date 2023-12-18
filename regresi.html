@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>Kalkulator Regresi Linear dan Korelasi</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600%2C700"/>
+    <link rel="stylesheet" href="./styles/menu-regresi-linear-dan-korelasi.css"/>
+  </head>
+
+  <body>
+    <div class="menu-regresi-linear-dan-korelasi-n61">
+      <div class="kotak-regresi-linear-dan-korelasi-UjX">
+        <div class="group-47259-pHb">
+          <div class="back-button-94y">
+            <div class="rectangle-4153-T5f">
+            </div>
+            <img class="expandleft-NyK" src="./assets/expandleft-S53.png"/>
+            <a href="index.html">
+              <p class="back-KNm">BACK</p>
+            </a>
+          </div>
+          <img class="chartalt-2HB" src="./assets/chartalt.png"/>
+          <p class="regresi-linear-dan-korelasi-YFX">REGRESI LINEAR DAN KORELASI</p>
+        </div>
+      </div>
+      <div class="auto-group-uq6u-ybj">
+        <div class="persaman-regresi-y-KQh">
+          <p class="persamaan-regresi-y-3bb">Persamaan Regresi Y</p>
+          <p class="rectangle-4188-P9f ttt">
+          </p>
+        </div>
+        <div class="korelasi-r-6Zs">
+          <p class="korelasi-r-oz5">Korelasi r</p>
+          <p class="rectangle-4189-Ywf ttt">
+          </p>
+        </div>
+        <div class="tingkat-hubungan-UqK">
+          <p class="tingkat-hubungan-nLD">Tingkat Hubungan</p>
+          <p class="rectangle-4190-hxy ttt">
+          </p>
+        </div>
+        <div class="kontribusi-FDo">
+          <p class="kontribusi-ams">Kontribusi</p>
+          <p class="rectangle-4191-82h ttt">
+          </p>
+        </div>
+        <div class="auto-group-rriq-fYR">
+          <div class="kotak-masukan-data-PzD">
+            <div class="auto-group-8x4h-efF">
+              <div class="rectangle-4155-nmT">
+              </div>
+              <div class="rectangle-4156-xhs">
+              </div>
+              <textarea id="rectangle-4157-3zD">
+              </textarea>
+              <p class="masukan-data--nS1">
+                <span class="masukan-data--nS1-sub-0">MASUKAN DATA :</span>
+                <span class="masukan-data--nS1-sub-1"> </span>
+              </p>
+              <p class="x-variabel-bebas-r4V">X (Variabel bebas)</p>
+            </div>
+          </div>
+          <div class="kotak-masukan-data-KcH">
+            <div class="auto-group-gen1-euT">
+              <div class="rectangle-4155-Ps3">
+              </div>
+              <div class="rectangle-4156-tYu">
+              </div>
+              <textarea id="rectangle-4157-zrq">
+              </textarea>
+              <p class="masukan-data--KeD">
+                <span class="masukan-data--KeD-sub-0">MASUKAN DATA :</span>
+                <span class="masukan-data--KeD-sub-1"> </span>
+              </p>
+              <p class="y-variabel-tak-bebas-hem">y (Variabel tak bebas)</p>
+            </div>
+            <button class="auto-group-uxyu-QZB" onclick="linearRegression();">calculate</button>
+          </div>
+        </div>
+
+        <div class="chart-container">
+          <canvas id="myChart"></canvas>
+       </div>
+      </div>
+    </div>
+    <script src="./scripts/regression.js"></script>
+  </body>
+</html>

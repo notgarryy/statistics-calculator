@@ -1,0 +1,253 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.kalkulator-binomial-peubah-acak-jgZ {
+  width: 100%;
+  height: 125.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #252525;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD {
+  box-sizing: border-box;
+  padding: 1.7rem 65.987rem 2.175rem 11.372rem;
+  width: 191.9869rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: rgba(5, 0, 0, 0.6299999952);
+  background: linear-gradient(269.7deg, #7370ff 27.48%, rgba(115, 112, 255, 0) 77.79%);
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .back-button-LgM {
+  margin: 0rem 40.232rem 0.025rem 0rem;
+  width: 14.9187rem;
+  height: calc(100% - 0.0252rem);
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .back-button-LgM .rectangle-4153-QgD {
+  width: 14.0627rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .back-button-LgM .expandleft-981 {
+  width: 0.909rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 2.7086rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .back-button-LgM .back-5GZ {
+  width: 5.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.28rem;
+  top: 0.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #651480;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .waterfall-mfB {
+  margin-right: 7.4rem;
+  box-sizing: border-box;
+  padding: 0.88rem 0.81rem 0.528rem 0.81rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .waterfall-mfB .auto-group-atrm-UpV {
+  margin: 0rem 0rem 0.88rem 0rem;
+  width: 4.3181rem;
+  height: 1.9366rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .waterfall-mfB .rectangle-25-znq {
+  width: 4.8579rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .group-47259-faD .kalkulator-distribusi-peubah-acak-diskrit-Vjb {
+  margin-top: 0.1748rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .kalkulator-binomial-Wub {
+  width: 37.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 14.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.kalkulator-binomial-peubah-acak-jgZ .jumlah-usaha-QEH {
+  width: 72.3rem;
+  height: 3.2142rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 25.2rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.kalkulator-binomial-peubah-acak-jgZ .jumlah-usaha-QEH .jumlah-usaha-n-L7w {
+  margin-right: 17.5066rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .jumlah-usaha-QEH #rectangle-4179-TCZ {
+  width: 36.3934rem;
+  height: 3.2142rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peluang-sukses-myw {
+  width: 72.3rem;
+  height: 3.2142rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 32.5152rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peluang-sukses-myw .peluang-sukses-p-Jys {
+  margin-right: 16.2066rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peluang-sukses-myw #rectangle-4180-3Rf {
+  width: 36.3934rem;
+  height: 3.2142rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peubah-acak-binomial-yKK {
+  width: 72.3rem;
+  height: 3.7684rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 39.8303rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.5rem;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peubah-acak-binomial-yKK .peubah-acak-binomial-x-r8D {
+  margin: 0.118rem 9.707rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .peubah-acak-binomial-yKK #rectangle-4181-yCq {
+  margin-bottom: 0.5542rem;
+  width: 36.3934rem;
+  height: 3.2142rem;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.kalkulator-binomial-peubah-acak-jgZ .calculate-box-6YM {
+  width: 28.847rem;
+  height: 3.8793rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 48.5864rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  background: linear-gradient(270.89deg, #7370ff 63.8%, rgba(0, 0, 0, 0) 98.9%);
+  border-radius: 0.5rem;
+}
+.kalkulator-binomial-Wub{
+  color: white;
+}
+button{
+  cursor:pointer;
+}
+.chart-container{
+  background-color: white;
+  position: absolute;
+  width: 40%;
+  height: 35%;
+  top: 10%;
+  right: 10%;
+}
+.output-container{
+  position: absolute;
+  width: 20%;
+  height: 30%;
+  bottom: 23%;
+  left: 6%;
+}
+.tt{
+  color: white;
+  font-family: Poppins, 'Source Sans Pro';
+  font-size: 24px;
+}

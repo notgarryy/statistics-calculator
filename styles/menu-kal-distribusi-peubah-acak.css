@@ -1,0 +1,179 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.menu-kal-distribusi-peubah-acak-Ebf {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #252525;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD {
+  box-sizing: border-box;
+  padding: 1.7rem 68.873rem 2.175rem 11.674rem;
+  width: 197.0731rem;
+  height: 8.1rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(5, 0, 0, 0.6299999952);
+  background: linear-gradient(269.7deg, #7370ff 27.48%, rgba(115, 112, 255, 0) 77.79%);
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .back-button-2Gd {
+  margin: 0rem 45.314rem 0.025rem 0rem;
+  width: 15.314rem;
+  height: calc(100% - 0.0252rem);
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .back-button-2Gd .rectangle-4153-YVs {
+  width: 14.4353rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .back-button-2Gd .expandleft-UPX {
+  width: 0.933rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 2.7803rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .back-button-2Gd .back-zcm {
+  width: 5.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.3934rem;
+  top: 0.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #651480;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .waterfall-hXB {
+  margin-right: 3.6493rem;
+  box-sizing: border-box;
+  padding: 0.88rem 0.831rem 0.528rem 0.831rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .waterfall-hXB .auto-group-48px-Ri5 {
+  margin-bottom: 0.8802rem;
+  width: 4.4325rem;
+  height: 1.9366rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .waterfall-hXB .rectangle-25-m1F {
+  width: 4.9866rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .group-47259-AkD .kalkulator-distribusi-peubah-acak-diskrit-roP {
+  margin-bottom: 0.2252rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH {
+  box-sizing: border-box;
+  padding: 8.3rem 10.1rem 47.5rem 10.1rem;
+  width: 100%;
+  row-gap: 5.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-binomial-buP {
+  box-sizing: border-box;
+  padding: 2.4rem 17.3rem 1.2rem 17.4rem;
+  width: 58.4rem;
+  height: 14.4rem;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.9499999881);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-binomial-buP .kalkulator-binomial-7cq {
+  max-width: 23.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-hypergeometric-cZb {
+  box-sizing: border-box;
+  padding: 2rem 12.8rem 1.6rem 12.9rem;
+  width: 58.4rem;
+  height: 14.4rem;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.9499999881);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-hypergeometric-cZb .kalkulator-hypergeometric-XAm {
+  max-width: 32.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-poisson-dUh {
+  box-sizing: border-box;
+  padding: 3rem 18.3rem 1.8rem 18.4rem;
+  width: 58.4rem;
+  height: 14.4rem;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.9499999881);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.menu-kal-distribusi-peubah-acak-Ebf .auto-group-vzc1-tEH .kotak-pilihan-kalkulator-poisson-dUh .kalkulator-poisson-HZF {
+  max-width: 21.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  font-family: Poppins, 'Source Sans Pro';
+}
