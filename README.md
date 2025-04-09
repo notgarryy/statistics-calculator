@@ -21,6 +21,6 @@ This repository contains a web-based statistics tool developed as a university p
 ## Notes
 This project was also created when I had just learned about front-end development. This project is not 100% complete, and there are no plans to finish it, as the university course has already been completed. Therefore, further development or maintenance is not intended.
 
-The calculator can be accessed at: https://notgarryy.github.io/tugas-besar-probstat/
+The calculator can be accessed at: https://notgarryy.github.io/statistics-calculator/
 
 [notgarryy]
